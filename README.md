@@ -61,6 +61,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or suggestions, please feel free to contact the project maintainer:
 
-Your Name
-Email: your-email@example.com
+Abhinav Shukla
+Email: abhinavshukla835@gmail.com
 

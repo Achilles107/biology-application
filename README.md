@@ -14,12 +14,13 @@ This is a mobile application built using Flutter that provides educational conte
 
 To get started with the Biology App project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/biology-app.git`
+1. Clone the repository: `git clone https://github.com/your-username/biology-app.git](https://github.com/Achilles107/biology-application.git`
 
 2. Install Flutter: Make sure you have Flutter installed on your system. You can download and install Flutter from the official Flutter website: [https://flutter.dev](https://flutter.dev)
 
 3. Set up an emulator or connect a physical device: You need to have an Android or iOS emulator set up on your system or connect a physical device to run the app.
 
+4. Import the project `biology-application/biology_app`
 4. Run the app: Open the project in your preferred IDE (such as Visual Studio Code or Android Studio) and run the app on the emulator or connected device using the following command: `flutter run`
 
 5. Explore the app: Once the app is running, you can explore the various features and functionalities of the Biology App.
